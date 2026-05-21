@@ -20,4 +20,5 @@ PPI_IMAGES
 <img width="250" height="75" alt="logo" src="https://github.com/user-attachments/assets/90a0e61c-2bfb-45c7-b0c2-2bae68bcacba" />
 
 
-<img width="9492" height="1920" alt="tezpass-partner" src="https://github.com/user-attachments/assets/518cd6f4-b38b-4be0-90df-5da9fc6d0fde" />
+<img width="8000" height="1920" alt="tezpass-partner" src="https://github.com/user-attachments/assets/9ac1b8cd-466d-47b4-8b5e-5ffcec94bef6" />
+

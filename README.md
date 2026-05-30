@@ -22,3 +22,7 @@ PPI_IMAGES
 
 <img width="8000" height="1920" alt="tezpass-partner" src="https://github.com/user-attachments/assets/9ac1b8cd-466d-47b4-8b5e-5ffcec94bef6" />
 
+[Untitled design.pdf](https://github.com/user-attachments/files/28416659/Untitled.design.pdf)
+
+
+

@@ -22,7 +22,7 @@ PPI_IMAGES
 
 <img width="8000" height="1920" alt="tezpass-partner" src="https://github.com/user-attachments/assets/9ac1b8cd-466d-47b4-8b5e-5ffcec94bef6" />
 
-[Untitled design.pdf](https://github.com/user-attachments/files/28416659/Untitled.design.pdf)
+<img width="666" height="375" alt="WhatsApp Image 2026-05-30 at 10 41 43 AM" src="https://github.com/user-attachments/assets/3dbe9936-c059-4436-936c-3efa801e1d57" />
 
 
 

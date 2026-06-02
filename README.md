@@ -38,3 +38,21 @@ PPI_IMAGES
 
 
 
+<img width="1024" height="1024" alt="googleMaps" src="https://github.com/user-attachments/assets/59046855-ad75-4568-a52f-dd30e43ac45a" />
+<img width="200" height="200" alt="plugShare" src="https://github.com/user-attachments/assets/31ee91bf-6ffb-4f36-b2ec-1330407557c8" />
+<img width="225" height="225" alt="eVJoints" src="https://github.com/user-attachments/assets/eeb29259-d34b-4a38-b36e-599ea13874e2" />
+<img width="512" height="512" alt="eVZone" src="https://github.com/user-attachments/assets/663e71c3-78c1-41b4-9faa-1cef2ddcb270" />
+<img width="430" height="117" alt="thunderPlus" src="https://github.com/user-attachments/assets/3e5e4426-597e-4b5f-9f12-f65d1fd499f4" />
+
+
+
+<img width="225" height="225" alt="voltran" src="https://github.com/user-attachments/assets/03744126-95fe-473a-9866-b1a70e1302a3" />
+<img width="994" height="575" alt="chargeGrid" src="https://github.com/user-attachments/assets/2834f84d-4f04-4553-854c-b8293cb08a87" />
+<img width="225" height="225" alt="jioBPPulse" src="https://github.com/user-attachments/assets/c78dc873-ade4-4b92-8b50-9cef702f9234" />
+<img width="148" height="148" alt="statiq" src="https://github.com/user-attachments/assets/caa005c9-0b14-4cf0-bf72-ee29fd74e8a1" />
+<img width="512" height="512" alt="tataPower" src="https://github.com/user-attachments/assets/b82986b0-5290-492a-aaf1-9b7a0c9fc7c3" />
+<img width="225" height="225" alt="chargeZone" src="https://github.com/user-attachments/assets/14082027-f287-412d-bf3f-1f47b4b021b0" />
+
+
+
+

@@ -34,7 +34,6 @@ PPI_IMAGES
 <img width="994" height="575" alt="chargeGrid" src="https://github.com/user-attachments/assets/6293c916-9fa2-4cf8-86db-62ee9fb2cd09" />
 <img width="225" height="225" alt="jioBPPulse" src="https://github.com/user-attachments/assets/0ff38746-2097-475b-a7d0-4376c31d6fcd" />
 <img width="430" height="117" alt="thunderPlus" src="https://github.com/user-attachments/assets/08e93b9d-c6fa-462f-8d65-be0e3443d869" />
-<img width="1024" height="1024" alt="googleMaps" src="https://github.com/user-attachments/assets/4c570545-98c2-4854-aada-26f7361c8a2a" />
 
 
 

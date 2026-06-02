@@ -19,14 +19,8 @@ PPI_IMAGES
 ![statementback](https://github.com/user-attachments/assets/1dd2e4d7-a048-4c77-a62d-355f02dc315d)
 <img width="250" height="75" alt="logo" src="https://github.com/user-attachments/assets/90a0e61c-2bfb-45c7-b0c2-2bae68bcacba" />
 
-
 <img width="8000" height="1920" alt="tezpass-partner" src="https://github.com/user-attachments/assets/9ac1b8cd-466d-47b4-8b5e-5ffcec94bef6" />
-
 <img width="666" height="375" alt="WhatsApp Image 2026-05-30 at 10 41 43 AM" src="https://github.com/user-attachments/assets/3dbe9936-c059-4436-936c-3efa801e1d57" />
-
-
-
-
 <img width="148" height="148" alt="statiq" src="https://github.com/user-attachments/assets/9e338c1a-47a8-4b13-b74b-53d1f7a46e1f" />
 <img width="512" height="512" alt="tataPower" src="https://github.com/user-attachments/assets/0276d2ec-1abf-4d34-892e-1ef1eff1ad5a" />
 <img width="225" height="225" alt="chargeZone" src="https://github.com/user-attachments/assets/51a982de-9224-4402-b0b1-209dd71c7924" />
@@ -34,24 +28,18 @@ PPI_IMAGES
 <img width="994" height="575" alt="chargeGrid" src="https://github.com/user-attachments/assets/6293c916-9fa2-4cf8-86db-62ee9fb2cd09" />
 <img width="225" height="225" alt="jioBPPulse" src="https://github.com/user-attachments/assets/0ff38746-2097-475b-a7d0-4376c31d6fcd" />
 <img width="430" height="117" alt="thunderPlus" src="https://github.com/user-attachments/assets/08e93b9d-c6fa-462f-8d65-be0e3443d869" />
-
-
-
 <img width="1024" height="1024" alt="googleMaps" src="https://github.com/user-attachments/assets/59046855-ad75-4568-a52f-dd30e43ac45a" />
 <img width="200" height="200" alt="plugShare" src="https://github.com/user-attachments/assets/31ee91bf-6ffb-4f36-b2ec-1330407557c8" />
 <img width="225" height="225" alt="eVJoints" src="https://github.com/user-attachments/assets/eeb29259-d34b-4a38-b36e-599ea13874e2" />
 <img width="512" height="512" alt="eVZone" src="https://github.com/user-attachments/assets/663e71c3-78c1-41b4-9faa-1cef2ddcb270" />
-<img width="430" height="117" alt="thunderPlus" src="https://github.com/user-attachments/assets/3e5e4426-597e-4b5f-9f12-f65d1fd499f4" />
-
-
-
-<img width="225" height="225" alt="voltran" src="https://github.com/user-attachments/assets/03744126-95fe-473a-9866-b1a70e1302a3" />
-<img width="994" height="575" alt="chargeGrid" src="https://github.com/user-attachments/assets/2834f84d-4f04-4553-854c-b8293cb08a87" />
-<img width="225" height="225" alt="jioBPPulse" src="https://github.com/user-attachments/assets/c78dc873-ade4-4b92-8b50-9cef702f9234" />
 <img width="148" height="148" alt="statiq" src="https://github.com/user-attachments/assets/caa005c9-0b14-4cf0-bf72-ee29fd74e8a1" />
-<img width="512" height="512" alt="tataPower" src="https://github.com/user-attachments/assets/b82986b0-5290-492a-aaf1-9b7a0c9fc7c3" />
-<img width="225" height="225" alt="chargeZone" src="https://github.com/user-attachments/assets/14082027-f287-412d-bf3f-1f47b4b021b0" />
 
 
+
+<img width="256" height="256" alt="youTube" src="https://github.com/user-attachments/assets/0af369b3-48ef-4e49-9a6b-4ed5941fa2ad" />
+<img width="1600" height="840" alt="tataMotors" src="https://github.com/user-attachments/assets/3392a6ef-c9f8-42e7-8d10-676d344f6fed" />
+<img width="283" height="178" alt="mG" src="https://github.com/user-attachments/assets/73fe1918-dcf0-403d-8dba-dfd3e7245a58" />
+<img width="3000" height="2000" alt="bYD" src="https://github.com/user-attachments/assets/81849cef-325a-4f70-a9af-ea2b3830d90b" />
+<img width="3840" height="2160" alt="mahindra" src="https://github.com/user-attachments/assets/ca9b8c24-0c2f-4f1b-9c1c-118dfc140723" />
 
 

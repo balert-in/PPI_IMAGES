@@ -36,10 +36,14 @@ PPI_IMAGES
 
 
 
-<img width="256" height="256" alt="youTube" src="https://github.com/user-attachments/assets/0af369b3-48ef-4e49-9a6b-4ed5941fa2ad" />
+
 <img width="1600" height="840" alt="tataMotors" src="https://github.com/user-attachments/assets/3392a6ef-c9f8-42e7-8d10-676d344f6fed" />
 <img width="283" height="178" alt="mG" src="https://github.com/user-attachments/assets/73fe1918-dcf0-403d-8dba-dfd3e7245a58" />
 <img width="3000" height="2000" alt="bYD" src="https://github.com/user-attachments/assets/81849cef-325a-4f70-a9af-ea2b3830d90b" />
 <img width="3840" height="2160" alt="mahindra" src="https://github.com/user-attachments/assets/ca9b8c24-0c2f-4f1b-9c1c-118dfc140723" />
+<img width="256" height="256" alt="youTube" src="https://github.com/user-attachments/assets/4d720f3c-6bba-4f3c-9c30-a8e191d208f0" />
+
+
+<img width="1932" height="1932" alt="hyundai" src="https://github.com/user-attachments/assets/76f7f13e-8fe7-4f21-935c-9a1ab612f2c8" />
 
 

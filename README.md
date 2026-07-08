@@ -49,6 +49,5 @@ PPI_IMAGES
 
 <img width="1024" height="983" alt="kia jpg" src="https://github.com/user-attachments/assets/1a545b3a-217c-41b8-9a7f-cff989e2de0d" />
 
-
 <img width="1932" height="1932" alt="hyundai" src="https://github.com/user-attachments/assets/ae4c390b-ae3f-466a-a554-8cd4675d82cd" />
 
